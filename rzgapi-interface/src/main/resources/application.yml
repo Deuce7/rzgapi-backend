@@ -1,0 +1,9 @@
+server:
+  port: 8023
+  servlet:
+    context-path: /api
+rzgapi:
+  client:
+    access-key: deuce7
+    secret-key: abcdefg
+
